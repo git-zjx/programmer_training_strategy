@@ -3,12 +3,12 @@
 * 开篇词
 * 入门篇
     * 零基础启蒙
-        * [《和孩子一起学编程》](https://github.com/git-zjx/programmer_training_strategy/tree/master/零基础启蒙)
+        * [《和孩子一起学编程》](https://github.com/git-zjx/programmer_training_strategy/tree/master/入门篇/零基础启蒙)
         * [《Web 入门》](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)
-        * [《Python编程快速上手》](https://github.com/git-zjx/programmer_training_strategy/tree/master/零基础启蒙)
-        * [《Python编程：从入门到实践》](https://github.com/git-zjx/programmer_training_strategy/tree/master/零基础启蒙)
+        * [《Python编程快速上手》](https://github.com/git-zjx/programmer_training_strategy/tree/master/入门篇/零基础启蒙)
+        * [《Python编程：从入门到实践》](https://github.com/git-zjx/programmer_training_strategy/tree/master/入门篇/零基础启蒙)
         * [《JavaScript》](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-        * [《JavaScript 教程》](http://www.w3scgit hool.com.cn/js/)
+        * [《JavaScript 教程》](http://www.w3school.com.cn/js/)
         * [《JavaScript 教程》廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
         * [《Linux教程》](https://www.w3cschool.cn/linux/)
         * [《CSS：层叠样式表》](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
