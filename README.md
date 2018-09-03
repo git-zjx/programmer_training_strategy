@@ -42,17 +42,16 @@
         * [《程序员的职业素养》]()
         * [《JUnit 5 用户指南》](http://sjyuan.cc/junit5/user-guide-cn/)
         * [《OWASP Top 10 2017 PDF 中文版》](https://www.owasp.org/images/d/dc/OWASP_Top_10_2017_%E4%B8%AD%E6%96%87%E7%89%88v1.3.pdf)
-        * [《Hardening Your HTTP Security Headers》]()
-        * [《完美软件》]()
-        * [《Google软件测试之道》]()
+        * [《完美软件》]()----暂时找不到
+        * [《Google软件测试之道》](https://github.com/git-zjx/programmer_training_strategy/tree/master/修养篇/程序员修养)
         * [《Serverside checklist》](https://github.com/mtdvio/going-to-production/blob/master/serverside-checklist.md)
         * [《Single Page App Checklist》](https://github.com/mtdvio/going-to-production/blob/master/spa-checklist.md)
 * 专业基础篇
     * 编程语言
-        * [《Java核心技术·卷 I（原书第10版）》]()
-        * [《Spring实战（第4版）》]()
-        * [《Spring Boot实战》]()
-        * [《Effective Java》]()
+        * [《Java核心技术·卷 I（原书第10版）》](https://github.com/git-zjx/programmer_training_strategy/tree/master/入门篇/正式入门)
+        * [《Spring实战（第4版）》](https://github.com/git-zjx/programmer_training_strategy/tree/master/入门篇/正式入门)
+        * [《Spring Boot实战》](https://github.com/git-zjx/programmer_training_strategy/tree/master/入门篇/正式入门)
+        * [《Effective Java》](https://github.com/git-zjx/programmer_training_strategy/tree/master/专业基础篇/编程语言)
         * [《Guava》](https://github.com/google/guava)
         * [《Java并发编程实战》]()
         * [《Java性能权威指南》]()
