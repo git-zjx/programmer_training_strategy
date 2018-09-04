@@ -39,16 +39,16 @@
         * [《重构》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F03-%E4%BF%AE%E5%85%BB%E7%AF%87%2F01-%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E5%85%BB&parentPath=%2F)
         * [《修改代码的艺术》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F03-%E4%BF%AE%E5%85%BB%E7%AF%87%2F01-%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E5%85%BB&parentPath=%2F)
         * [《代码整洁之道》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F03-%E4%BF%AE%E5%85%BB%E7%AF%87%2F01-%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E5%85%BB&parentPath=%2F)
-        * [《程序员的职业素养》]()
+        * [《程序员的职业素养》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F03-%E4%BF%AE%E5%85%BB%E7%AF%87%2F01-%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E5%85%BB&parentPath=%2F)
         * [《JUnit 5 用户指南》](http://sjyuan.cc/junit5/user-guide-cn/)
         * [《OWASP Top 10 2017 PDF 中文版》](https://www.owasp.org/images/d/dc/OWASP_Top_10_2017_%E4%B8%AD%E6%96%87%E7%89%88v1.3.pdf)
-        * [《完美软件》]()----暂时找不到
+        * 《完美软件》
         * [《Google软件测试之道》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F03-%E4%BF%AE%E5%85%BB%E7%AF%87%2F01-%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E5%85%BB&parentPath=%2F)
         * [《Serverside checklist》](https://github.com/mtdvio/going-to-production/blob/master/serverside-checklist.md)
         * [《Single Page App Checklist》](https://github.com/mtdvio/going-to-production/blob/master/spa-checklist.md)
 * 专业基础篇
     * 编程语言
-        * [《Java核心技术·卷 I（原书第10版）》](hhttps://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E7%AF%87%2F01-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80&parentPath=%2F)
+        * [《Java核心技术·卷 I（原书第10版）》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E7%AF%87%2F01-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80&parentPath=%2F)
         * [《Spring实战（第4版）》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E7%AF%87%2F01-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80&parentPath=%2F)
         * [《Spring Boot实战》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E7%AF%87%2F01-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80&parentPath=%2F)
         * [《Effective Java》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E7%AF%87%2F01-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80&parentPath=%2F)
