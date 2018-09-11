@@ -105,6 +105,9 @@
         * [《The Twelve-Factor App》](https://12factor.net/zh_cn/)
 * 高手成长篇
     * Linux 系统、内存和网络（系统底层知识）
+        * [《Red Hat Enterprise Linux 文档》](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/)
+        * [《linux-insides》](https://0xax.gitbooks.io/linux-insides/content/index.html)
+        * [《Linux Performance and Tuning Guidelines》](https://lenovopress.com/redp4285.pdf)
     * 异步 I/O 模型和 Lock-Free 编程（系统底层知识）
     * Java 底层知识
     * 数据库
