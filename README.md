@@ -108,6 +108,11 @@
         * [《Red Hat Enterprise Linux 文档》](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/)
         * [《linux-insides》](https://0xax.gitbooks.io/linux-insides/content/index.html)
         * [《Linux Performance and Tuning Guidelines》](https://lenovopress.com/redp4285.pdf)
+        * [《The Linux Kernel》](http://tldp.org/LDP/tlk/tlk.html)
+        * [《What every programmer should know about memory》](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+        * [《HTTP权威指南》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F01-Linux%20%E7%B3%BB%E7%BB%9F%E3%80%81%E5%86%85%E5%AD%98%E5%92%8C%E7%BD%91%E7%BB%9C%EF%BC%88%E7%B3%BB%E7%BB%9F%E5%BA%95%E5%B1%82%E7%9F%A5%E8%AF%86%EF%BC%89&parentPath=%2F)
+        * [《计算机网络（第5版）》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F01-Linux%20%E7%B3%BB%E7%BB%9F%E3%80%81%E5%86%85%E5%AD%98%E5%92%8C%E7%BD%91%E7%BB%9C%EF%BC%88%E7%B3%BB%E7%BB%9F%E5%BA%95%E5%B1%82%E7%9F%A5%E8%AF%86%EF%BC%89&parentPath=%2F)
+        * [《http2讲解》](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)
     * 异步 I/O 模型和 Lock-Free 编程（系统底层知识）
     * Java 底层知识
     * 数据库
