@@ -126,7 +126,7 @@
         * [《HBase实战》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
         * [《NoSQL精粹》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
         * [《数据库索引设计与优化》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
-        * [《MySQL技术内幕》]()
+        * [《MySQL技术内幕》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
         * [《高性能MySQL》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
     * 分布式架构入门（分布式架构）
     * 分布式架构经典图书和论文（分布式架构）
