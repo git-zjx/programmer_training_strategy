@@ -120,6 +120,14 @@
         * [《垃圾回收算法手册》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F03-Java%20%E5%BA%95%E5%B1%82%E7%9F%A5%E8%AF%86&parentPath=%2F)
         * [《Garbage Collection Tuning Guide》](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/)
     * 数据库
+        * [《Oracle Database 9i/10g/11g编程艺术》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
+        * [《O'Reilly Graph Databases》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
+        * [《HBase权威指南》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
+        * [《HBase实战》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
+        * [《NoSQL精粹》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
+        * [《数据库索引设计与优化》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
+        * [《MySQL技术内幕》]()
+        * [《高性能MySQL》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F04-%E6%95%B0%E6%8D%AE%E5%BA%93&parentPath=%2F)
     * 分布式架构入门（分布式架构）
     * 分布式架构经典图书和论文（分布式架构）
     * 分布式架构工程设计 (分布式架构)
