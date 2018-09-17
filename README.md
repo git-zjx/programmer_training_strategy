@@ -133,7 +133,7 @@
         * [《Distributed Systems for fun and profit》](http://book.mixu.net/distsys/single-page.html)
         * [《设计数据密集型应用》](https://vonng.gitbooks.io/ddia-cn/content/)
         * [《Distributed Systems: Principles and Paradigms》](http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Distributed%20Systems%20Principles%20and%20Paradigms.pdf)
-        * [《分布式系统原理与范型 》]()
+        * [《分布式系统原理与范型 》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F06-%E9%AB%98%E6%89%8B%E6%88%90%E9%95%BF%E7%AF%87%2F06-%E5%88%86%E5%B8%83%E5%BC%8F%E6%9E%B6%E6%9E%84%E7%BB%8F%E5%85%B8%E5%9B%BE%E4%B9%A6%E5%92%8C%E8%AE%BA%E6%96%87%EF%BC%88%E5%88%86%E5%B8%83%E5%BC%8F%E6%9E%B6%E6%9E%84%EF%BC%89&parentPath=%2F)
         * [《Scalable Web Architecture and Distributed Systems》](http://www.aosabook.org/en/distsys.html)
         * [《可扩展的WEB架构与分布式系统》](https://my.oschina.net/liting/blog/420406)
         * [《Principles of Distributed Computing》](https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf)
