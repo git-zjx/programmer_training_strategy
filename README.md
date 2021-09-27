@@ -76,16 +76,16 @@
         * [《The Go Programming Language》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/6151783b4052b39dc9174a9bbbc2f2dab803bbff)
         * [《Effective Go》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/6151783b4052b39dc9174a9bbbc2f2dab803bbff)
     * 理论学科
-        * [《算法》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《算法图解》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《算法导论（原书第3版）》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《编程珠玑》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《数据结构与算法分析》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《数据库系统概念》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《现代操作系统（第3版）》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《计算机网络（第4版）》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《计算机程序的构造和解释》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
-        * [《编译原理》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《算法》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《算法图解》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《算法导论（原书第3版）》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《编程珠玑》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《数据结构与算法分析》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《数据库系统概念》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《现代操作系统（第3版）》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《计算机网络（第4版）》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《计算机程序的构造和解释》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
+        * [《编译原理》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c58f80cfa00fe0e441290d3edbcbd2b2418)
     * 系统知识
         * [《深入理解计算机系统（原书第2版）》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c4f0e784103db894ba0bbb3e50538f03f07)
         * [《UNIX环境高级编程》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c4f0e784103db894ba0bbb3e50538f03f07)
@@ -102,8 +102,8 @@
         * [《如何处理10000 TCP连接》](https://www.oschina.net/translate/c10k)
 * 软件设计篇
     * 软件设计
-        * [《领域驱动设计》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c4ae37e9900345a46daa7ea1bbd45720aeb)
-        * [《UNIX编程艺术》]https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c4ae37e9900345a46daa7ea1bbd45720aeb)
+        * [《领域驱动设计》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c4ae37e9900345a46daa7ea1bbd45720aeb)
+        * [《UNIX编程艺术》](https://www.aliyundrive.com/s/gDuBJzV5Z9v/folder/61502c4ae37e9900345a46daa7ea1bbd45720aeb)
         * [《The Clean Architecture》](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
         * [《The Twelve-Factor App》](https://12factor.net/zh_cn/)
 * 高手成长篇
